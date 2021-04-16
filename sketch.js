@@ -7,7 +7,7 @@ var feed,lastFed,time;
 
 function preload(){
 sadDog=loadImage("Dog.png");
-happyDog=loadImage("happy dog.png");
+happyDog=loadImage("happy_dog.png");
 }
 
 function setup() {
